@@ -1,0 +1,116 @@
+.body{
+    background-color: rgb(0, 0, 51);
+}
+.gitimg{
+    position: absolute;
+    top:60px;
+    left:470PX;
+}
+.hi{
+    color: white;
+    position: absolute;
+    top:75px;
+    left:440PX;
+}
+.mark{
+    color: white;
+    position: absolute;
+    left: 400px;
+    top: 95px;
+}
+.developer{
+    color: gold;
+    position: absolute;
+    left: 460px;
+    top: 140px;
+}
+.img{
+    position: absolute;
+    left: 400px;
+    top: 200px;
+}
+.project{
+    font-size: larger;
+    color: white;
+    position: absolute;
+    left: 460px;
+    top: 400px;
+}
+.groups{
+    position: absolute;
+    top: 470px;
+    left:440px;
+}
+.pro{
+    color: white;
+    font-size: small;
+}
+.p1{
+    position: absolute;
+    left: 480px;
+    top: 580px;
+}
+.p2{
+    position: absolute;
+    left: 480px;
+    top: 720px;
+}
+.p3{
+    position: absolute;
+    left: 480px;
+    top: 860px;
+}
+.p4{
+    position: absolute;
+    left: 480px;
+    top: 1000px;
+}
+.con_me{
+    color: white;
+    font-size: large;
+    position: absolute;
+    left: 460px;
+    top: 1030px;
+}
+.img2{
+    position: absolute;
+    top: 1080px;
+    left: 470px;
+}
+.img3{
+    position: absolute;
+    top: 1080px;
+    left: 500px;
+}
+.img4{
+    position: absolute;
+    top: 1080px;
+    left: 530px;
+}
+.div1{
+width: 20px;
+height: 2px;
+background-color: rgb(255, 255, 255);
+margin: 3px;
+position: absolute;
+left: 320px;
+top: 30px;
+}
+.div2{
+width: 20px;
+height: 2px;
+background-color: rgb(255, 255, 255);
+margin: 3px;
+position: absolute;
+left: 320px;
+top: 35px;
+}
+.div3{
+width: 20px;
+height: 2px;
+background-color: rgb(255, 255, 255);
+margin: 3px;
+position: absolute;
+left: 320px;
+top: 40px;
+}
