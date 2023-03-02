@@ -1,0 +1,473 @@
+.body{
+    background-color: black;
+}
+p{
+    font-size: medium;
+    color: white;
+}
+.info{
+    color: white;
+}
+.shop{
+    background-color: black;
+    color: white;
+    font-size: large;
+}
+.img1{
+    position: absolute;
+    top: 50px;
+    left: 300px;
+}
+.img2{
+    position: absolute;
+    left: 350px;
+}
+.img3{
+    position: absolute;
+    left: 750px;
+    top: 200px;
+}
+h1{
+    color: white;
+    position: absolute;
+    left: 700px;
+    top: 300px;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    color: white;
+    position: absolute;
+    left: 700px;
+    top: 450px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.passage{
+    font-size: small;
+}
+pre{
+    color: white;
+}
+.p1{
+    position: absolute;
+    top: 500px;
+    left: 700px;
+}
+.p2{
+    position: absolute;
+    top: 520px;
+    left: 700px;
+}
+.p3{
+    position: absolute;
+    top: 540px;
+    left: 700px;
+}
+.p4{
+    position: absolute;
+    top: 560px;
+    left: 700px;
+}
+.home{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 50px;
+    left: 700px;
+}
+.specs{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 50px;
+    left: 800px;
+}
+.case{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 50px;
+    left: 900px;
+}
+.products{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 50px;
+    left: 1000px;
+}
+.shop{
+    background-color: rgb(39, 39, 39);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 70px;
+    left: 1160px;
+}
+.bb{
+    background-color: rgb(39, 39, 39);
+    position: absolute;
+    top: 650px;
+    left: 700px;
+}
+.bag{
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(39, 39, 39);
+    color: white;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 650px;
+    left: 750px;
+}
+.apple{
+    position: absolute;
+    top: 770px;
+    left: 400px;
+}
+.spotify{
+    position: absolute;
+    top: 770px;
+    left: 650px;
+}
+.amazon{
+    position: absolute;
+    top: 770px;
+    left: 900px;
+}
+.youtube{
+    position: absolute;
+    top: 770px;
+    left: 1150px;
+}
+.img4{
+    position: absolute;
+    left: 750px;
+    top: 900px;
+}
+.img5{
+    position: absolute;
+    left: 850px;
+    top: 1000px;
+}
+.bluetooth{
+    position: absolute;
+    top: 1050px;
+    left: 630px;
+}
+.connection{
+    position: absolute;
+    top: 1080px;
+    left: 630px;
+}
+.charger{
+    position: absolute;
+    top: 1150px;
+    left: 600px;
+}
+.battery{
+    position: absolute;
+    top: 1180px;
+    left: 600px;
+}
+.load{
+    position: absolute;
+    top: 1250px;
+    left: 600px;
+}
+.plug{
+    position: absolute;
+    top: 1280px;
+    left: 600px;
+}
+.microphone{
+    position: absolute;
+    top: 1350px;
+    left: 630px;
+}
+.mike{
+    position: absolute;
+    top: 1380px;
+    left: 630px;
+}
+.beats{
+    position: absolute;
+    top: 1550px;
+    left: 750px;
+}
+.img6{
+    position: absolute;
+    top: 1700px;
+    left: 600px;
+}
+.casepass{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    position: absolute;
+    top: 1750px;
+    left: 850px;
+}
+.more{
+    font-size: 30px;
+    border: 2px solid black;
+    background-color: rgb(34, 33, 33);
+    color: white;
+    position: absolute;
+    top: 1900px;
+    left: 900px;
+}
+.group{
+    /* background-color: rgb(246, 228, 228);
+    color: white; */
+    position: absolute;
+    top: 1900px;
+    left: 850px;
+}
+.smallbody{
+    height: 300px;
+    width: 1000px;
+    background-color: rgb(52, 52, 52);
+    position: absolute;
+    top: 2100px;
+    left: 500px;
+}
+.music{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 2100px;
+    left: 650px;
+}
+.buy{
+    font-size: 30px;
+    border: 2px solid black;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    position: absolute;
+    top: 2300px;
+    left: 650px;
+}
+.img7{
+    position: absolute;
+    top: 2150px;
+    left: 1050px;
+}
+.img8{
+    position: absolute;
+    top: 2300px;
+    left: 600px; 
+}
+.choose{
+    position: absolute;
+    top: 2500px;
+    left: 750px;
+}
+.h1{
+    position: absolute;
+    top: 2700px;
+    left: 600px;
+}
+.h2{
+    position: absolute;
+    top: 2700px;
+    left: 900px;
+}
+.h3{
+    position: absolute;
+    top: 3000px;
+    left: 600px;
+}
+.h4{
+    position: absolute;
+    top: 3000px;
+    left: 900px;
+}
+.h5{
+    position: absolute;
+    top: 3300px;
+    left: 600px;
+}
+.blackM1{
+    height: 180px;
+    width: 180px; 
+    background-color: rgb(39, 39, 39);
+    position: absolute;
+    top: 2750px;
+    left: 580px;
+}
+.blackm1{
+    font-size: 20px;
+    position: absolute;
+    top: 2850px;
+    left: 600px;
+    color: white;
+}
+.redM1{
+    height: 180px;
+    width: 180px; 
+    background-color: rgb(39, 39, 39);
+    position: absolute;
+    top: 2750px;
+    left: 880px;
+}
+.redm1{
+    font-size: 20px;
+    position: absolute;
+    top: 2850px;
+    left: 900px;
+    color: white;
+}
+.goldM1{
+    height: 180px;
+    width: 180px; 
+    background-color: rgb(39, 39, 39);
+    position: absolute;
+    top: 3050px;
+    left: 580px;
+}
+.goldm1{
+    font-size: 20px;
+    position: absolute;
+    top: 3150px;
+    left: 600px;
+    color: white;
+}
+.blueM1{
+    height: 180px;
+    width: 180px; 
+    background-color: rgb(39, 39, 39);
+    position: absolute;
+    top: 3050px;
+    left: 880px;
+}
+.bluem1{
+    font-size: 20px;
+    position: absolute;
+    top: 3150px;
+    left: 900px;
+    color: white;
+}
+.creamM1{
+    height: 180px;
+    width: 180px; 
+    background-color: rgb(39, 39, 39);
+    position: absolute;
+    top: 3350px;
+    left: 580px;
+}
+.creamm1{
+    font-size: 20px;
+    position: absolute;
+    top: 3450px;
+    left: 600px;
+    color: white;
+}
+.img11{
+    position: absolute;
+    top: 2880px;
+    left: 700px;
+    background-color: black;
+}
+.img12{
+    position: absolute;
+    top: 2880px;
+    left: 1010px;
+    background-color: black;
+}
+.img13{
+    position: absolute;
+    top: 3180px;
+    left: 720px;
+    background-color: black;
+}
+.img14{
+    position: absolute;
+    top: 3180px;
+    left: 1010px;
+    background-color: black;
+}
+.img15{
+    position: absolute;
+    top: 3480px;
+    left: 720px;
+    background-color: black;
+}
+.pro{
+    font-size: 25px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 3600px;
+    left: 500px;
+}
+.support{
+    font-size: 25px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 3600px;
+    left: 850px;
+}
+.img9{
+    position: absolute;
+    top: 3650px;
+    left: 300px;
+}
+.gmail{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: white;
+    height: 60px;
+    width: 400px;
+    background-color: rgb(40, 40, 40);
+    position: absolute;
+    top: 3650px;
+    left: 1300px;
+}
+.subscribe{
+    color: white;
+    font-size: 20px;
+    height: 40px;
+    width: 100px;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    top: 3660px;
+    left: 1580px;
+}
+.rightarrow{
+    height: 40px;
+    width: 50px;
+    background-color: black;
+    position: absolute;
+    top: 3660px;
+    left: 1530px;
+}
+.uparrow{
+    height: 40px;
+    width: 50px;
+    background-color: black;
+    position: absolute;
+    top: 3660px;
+    left: 1930px;
+}
+.facebook{
+    position: absolute;
+    top: 3750px;
+    left: 1320px;
+}
+.twitter{
+    position: absolute;
+    top: 3750px;
+    left: 1400px;
+}
+.instagram{
+    position: absolute;
+    top: 3750px;
+    left: 1480px;
+}
+.linkedIn{
+    position: absolute;
+    top: 3750px;
+    left: 1560px;
+}
