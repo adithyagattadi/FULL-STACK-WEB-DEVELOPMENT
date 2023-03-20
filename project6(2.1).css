@@ -1,0 +1,85 @@
+.body{
+    background-color: rgb(245, 245, 245);
+}
+.img1{
+    position: absolute;
+    top: 30px;
+    left: 150px;
+}
+.home{
+    position: absolute;
+    top: 35px;
+    left: 900px;
+}
+.aboutus{
+    position: absolute;
+    top: 35px;
+    left: 980px;
+}
+.contactus{
+    position: absolute;
+    top: 35px;
+    left: 1060px;
+}
+.uplogo{
+    position: absolute;
+    top: 250px;
+    left: 150px;
+}
+.health{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 270px;
+    left: 150px;
+}
+.greenlogo{
+    position: absolute;
+    top: 270px;
+    left: 940px;
+}
+.orangelogo{
+    position: absolute;
+    top: 300px;
+    left: 950px;
+}
+.doctor{
+    position: absolute;
+    top: 150px;
+    left: 900px;
+}
+.problems{
+    color: rgb(148, 148, 148);
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 430px;
+    left: 150px;
+}
+.downlogo{
+    position: absolute;
+    top: 500px;
+    left: 500px;
+}
+.stethoscope{
+    position: absolute;
+    top: 230px;
+    left: 250px;
+}
+.app{
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(95, 218, 95);
+    color: white;
+    border: rgb(95, 218, 95);
+    position: absolute;
+    top: 500px;
+    left: 150px;
+}
+.mouse{
+    position: absolute;
+    top: 530px;
+    left: 550px;
+}
